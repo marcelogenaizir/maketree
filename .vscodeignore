@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+.vscodeignore
+
+tests
+coverage
+
+*.log
